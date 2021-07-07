@@ -1,0 +1,45 @@
+.appLevel{
+    background-color: lightgray; 
+    padding: 10px 20px;
+    margin: 20px;
+    width: 900px;
+    height: 650px;
+}
+
+.headerLevel{
+    background-color: green;
+    height: 150px;
+    margin: 25px 0px;
+    justify-items: stretch;
+}
+
+.navLevel{
+    background-color: blue;
+    width: 225px;
+    height: 375px;
+    display: inline-block;
+    margin-right: 20px;
+    
+}
+
+.mainLevel{
+    background-color: chocolate;
+    width: 650px;
+    display: inline-block;
+    vertical-align: top;
+    min-height: 400px;
+}
+
+.subLevel{
+    background-color: yellow;
+    width: 30%;
+    height: 300px;
+    margin: 10px;
+    display: inline-block;
+}
+
+.adLevel{
+    background-color: purple;
+    height: 100px;
+    margin:10px;
+}
